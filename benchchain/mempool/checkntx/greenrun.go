@@ -1,11 +1,11 @@
-package checktx
+package auditntx
 
 import (
-	"github.com/benchlab/mir/client"
 	"github.com/benchlab/benchcore/config"
 	"github.com/benchlab/benchcore/mempool"
 	"github.com/benchlab/benchcore/proxy"
 	"github.com/benchlab/benchcore/types"
+	"github.com/benchlab/mir/client"
 )
 
 const addr = "0.0.0.0:8080"
