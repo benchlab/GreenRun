@@ -1,0 +1,6 @@
+panic: runtime error: index out of range
+github.com/benchlab/benchcore/s2s.DecodeMessage
+github.com/benchlab/benchcore/s2s.(*PEXReactor).Receive
+github.com/benchlab/benchcore/greenrun/s2s/pex-reactor.GreenRuns
+go-greenrun-dep.Main
+main.main

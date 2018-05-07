@@ -1,0 +1,4 @@
+panic: input and out are different
+github.com/benchlab/benchcore/greenrun/types/rocketeerSet.GreenRuns
+go-greenrun-dep.Main
+main.main

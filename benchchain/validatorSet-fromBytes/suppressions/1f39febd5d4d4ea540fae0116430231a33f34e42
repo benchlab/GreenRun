@@ -1,0 +1,4 @@
+panic: runtime error: makeslice: len out of range
+github.com/benchlab/benchcore/greenrun/types/rocketeerSet.GreenRuns
+go-greenrun-dep.Main
+main.main

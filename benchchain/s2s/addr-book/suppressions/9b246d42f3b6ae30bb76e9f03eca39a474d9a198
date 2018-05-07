@@ -1,0 +1,4 @@
+panic: picked a nil address with bias: 992, netAddress: {"":"","":"","":"","":"","":"udFFdct","":"","":"","":"","":"","":"","":"","":"","":"","":1,"":"","":"","":"","":"","":"","":"","":"","":"","":"","":"","":"","":"","�":"","":"","":"","":"","":"","":"","":1} addr: {"IP":"10.140.8.5","Port":24788}
+github.com/benchlab/benchcore/greenrun/s2s/addr-book.GreenRuns
+go-greenrun-dep.Main
+main.main

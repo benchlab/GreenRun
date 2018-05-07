@@ -1,0 +1,17 @@
+fatal error: out of memory
+runtime.systemstack_switch
+runtime.mallocgc
+runtime.makeslice
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.ReadByteSlice
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.ReadBinary
+github.com/benchlab/benchcore/types.(*RocketeerSet).FromBytes
+github.com/benchlab/benchcore/greenrun/types/rocketeerSet.GreenRuns.func1
+github.com/benchlab/benchcore/greenrun/types/rocketeerSet.captureAnyPanic
+github.com/benchlab/benchcore/greenrun/types/rocketeerSet.GreenRuns
+go-greenrun-dep.Main
+main.main
+runtime.main
+runtime.goexit

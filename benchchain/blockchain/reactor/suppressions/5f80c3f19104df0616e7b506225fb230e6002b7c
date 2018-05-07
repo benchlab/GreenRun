@@ -1,0 +1,14 @@
+panic: Panicked on a Sanity Check: Time cannot have sub-millisecond precision
+github.com/benchlab/benchcore/vendor/github.com/benchlab/benchlibs/common.PanicSanity
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.ReadTime
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.readReflectBinary
+github.com/benchlab/benchcore/vendor/github.com/benchlab/chainlink.ReadBinary
+github.com/benchlab/benchcore/multichain.DecodeMessage
+github.com/benchlab/benchcore/greenrun/blockchain/reactor.GreenRuns
+go-greenrun-dep.Main
+main.main

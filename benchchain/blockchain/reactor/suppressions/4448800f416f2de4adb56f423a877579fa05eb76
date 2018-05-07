@@ -1,0 +1,5 @@
+panic: runtime error: index out of range
+github.com/benchlab/benchcore/multichain.DecodeMessage
+github.com/benchlab/benchcore/greenrun/blockchain/reactor.GreenRuns
+go-greenrun-dep.Main
+main.main

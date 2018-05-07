@@ -1,0 +1,9 @@
+panic: runtime error: invalid memory address or nil pointer dereference
+github.com/benchlab/benchcore/s2s.(*AddrBook).groupKey
+github.com/benchlab/benchcore/s2s.(*AddrBook).calcNewBucket
+github.com/benchlab/benchcore/s2s.(*AddrBook).addAddress
+github.com/benchlab/benchcore/s2s.(*AddrBook).AddAddress
+github.com/benchlab/benchcore/s2s.(*PEXReactor).Receive
+github.com/benchlab/benchcore/greenrun/s2s/pex-reactor.GreenRuns
+go-greenrun-dep.Main
+main.main
